@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add distance calculation feature in vision-eye (#8616)
