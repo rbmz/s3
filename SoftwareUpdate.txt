@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+OpenVino 2024.0.0 (#8726)
