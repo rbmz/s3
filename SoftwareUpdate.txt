@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
