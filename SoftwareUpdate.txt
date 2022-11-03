@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
