@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
