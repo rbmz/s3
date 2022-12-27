@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Explorer with LanceDB, Actions and Docs updates (#7487)
