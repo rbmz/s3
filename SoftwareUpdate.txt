@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Fix xyxyxyxyn calculation in obb result (#8188)
