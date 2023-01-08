@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Elaborate Train and Predict mode docs arguments (#8137)
