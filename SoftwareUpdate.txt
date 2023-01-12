@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix TFLite INT8 for OBB (#7989)
