@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
