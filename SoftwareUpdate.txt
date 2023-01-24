@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
