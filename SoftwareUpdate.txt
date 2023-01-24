@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Fix IS_PYTHON_3_12 bug (#9258)
