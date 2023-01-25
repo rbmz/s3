@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
