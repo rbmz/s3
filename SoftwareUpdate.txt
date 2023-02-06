@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update IoU capitalization (#8604)
