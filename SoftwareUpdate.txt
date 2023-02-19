@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Compress docs images (#8124)
