@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
