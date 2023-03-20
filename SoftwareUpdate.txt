@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
