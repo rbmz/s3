@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
