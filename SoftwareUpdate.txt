@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Use pathlib in DOTA ops (#7552)
