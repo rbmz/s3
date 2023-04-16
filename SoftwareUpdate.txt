@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add docs guide terminal images (#8819)
