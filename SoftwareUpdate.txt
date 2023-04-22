@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+* fix for predicting with batch_size > 1
