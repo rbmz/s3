@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Docs robots.txt (#7728)
