@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Clarify triton server boolean value (#8532)
