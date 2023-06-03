@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
