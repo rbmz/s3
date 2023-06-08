@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
