@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
