@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
