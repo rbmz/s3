@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
