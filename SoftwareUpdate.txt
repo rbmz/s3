@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix PNNX ubuntu -> linux bug (#7050)
