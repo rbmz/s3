@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Update mkdocs.yml (#7693)
