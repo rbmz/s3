@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
