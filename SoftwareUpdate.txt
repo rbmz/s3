@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
