@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
