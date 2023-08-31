@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add dota8.yaml and O tests (#7394)
