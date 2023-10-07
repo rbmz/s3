@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update Colab notebook for YOLOv8.1 (#8660)
