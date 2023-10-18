@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix cmake requirements for ARM64 (#8589)
