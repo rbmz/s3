@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Elaborate Train and Predict mode docs arguments (#8137)
