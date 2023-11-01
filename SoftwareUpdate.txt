@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
