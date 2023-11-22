@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Expand Model method type hinting (#8279)
