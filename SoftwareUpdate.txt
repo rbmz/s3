@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add visuals in guides/distance-calculation.md (#7876)
