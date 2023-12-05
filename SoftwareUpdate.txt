@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
