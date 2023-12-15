@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
