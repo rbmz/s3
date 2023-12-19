@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
