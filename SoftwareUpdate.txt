@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
