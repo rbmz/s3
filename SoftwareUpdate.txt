@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add Weights & Biases Docs integrations page (#7199)
