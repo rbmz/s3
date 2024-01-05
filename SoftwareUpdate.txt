@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Improve Coral Edge TPU guide (#8160)
