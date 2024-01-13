@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update mkdocs.yml (#7693)
