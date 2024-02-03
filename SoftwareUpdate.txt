@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Replace onnx2tf usage from CLI to Python (#8429)
