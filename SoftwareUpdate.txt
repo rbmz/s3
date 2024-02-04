@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Expand Model method type hinting (#8279)
