@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
