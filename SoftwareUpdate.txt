@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
