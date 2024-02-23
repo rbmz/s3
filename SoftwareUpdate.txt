@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add TorchScript Docs Integrations Page (#8501)
