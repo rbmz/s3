@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
