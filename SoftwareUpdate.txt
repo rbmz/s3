@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
