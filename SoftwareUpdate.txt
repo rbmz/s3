@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
