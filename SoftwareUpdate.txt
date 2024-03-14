@@ -1,1 +1,1 @@
-fix non-coco val
+Fix cmake requirements for ARM64 (#8589)
