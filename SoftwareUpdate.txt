@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
