@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Update CITATION.cff with cffinit corrections (#8658)
