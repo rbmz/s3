@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix OpenVINO missing batch-size bug (#9264)
