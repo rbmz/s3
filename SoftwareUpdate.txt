@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
