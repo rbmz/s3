@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
