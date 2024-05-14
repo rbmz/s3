@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Compress docs images (#8124)
