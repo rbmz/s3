@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Merge pull request #22 from SkalskiP/patch-1
