@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
